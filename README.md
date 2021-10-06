@@ -1,9 +1,9 @@
 # BukitVistaTest
 Private API to return image URL of movie poster, store user's favorite movies, and fetch user's favorite movies poster URL
 ## SetUp Project
-start : node server.js
-development purposes : nodemon server.js
-Note : Plase check databse password on .env file
+* Start : node server.js
+* Development purposes : nodemon server.js
+### Note : Plase check databse password on .env file
 ## API Documentation
 ### AUTH
 * POST /register : register user data
